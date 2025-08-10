@@ -10,5 +10,405 @@
     {
         "id": 3,
         "joke": "Why did the math book look sad? Because it had too many problems."
+    },
+    {
+        "id": 4,
+        "joke": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+        "id": 5,
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+        "id": 6,
+        "joke": "Why did the bicycle fall over? Because it was two-tired!"
+    },
+    {
+        "id": 7,
+        "joke": "What do you call cheese that isn't yours? Nacho cheese."
+    },
+    {
+        "id": 8,
+        "joke": "Why can't your nose be 12 inches long? Because then it would be a foot."
+    },
+    {
+        "id": 9,
+        "joke": "What do you call a bear with no teeth? A gummy bear."
+    },
+    {
+        "id": 10,
+        "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+    },
+    {
+        "id": 11,
+        "joke": "Why did the coffee file a police report? It got mugged."
+    },
+    {
+        "id": 12,
+        "joke": "How do you organize a space party? You planet."
+    },
+    {
+        "id": 13,
+        "joke": "Why don’t some couples go to the gym? Because some relationships don’t work out."
+    },
+    {
+        "id": 14,
+        "joke": "Why was the math lecture so long? The professor kept going off on a tangent."
+    },
+    {
+        "id": 15,
+        "joke": "Why did the cookie go to the hospital? Because he felt crummy."
+    },
+    {
+        "id": 16,
+        "joke": "What do you call a snowman with a six-pack? An abdominal snowman."
+    },
+    {
+        "id": 17,
+        "joke": "What did one ocean say to the other ocean? Nothing, they just waved."
+    },
+    {
+        "id": 18,
+        "joke": "Why do bees have sticky hair? Because they use a honeycomb."
+    },
+    {
+        "id": 19,
+        "joke": "Why did the golfer bring two pairs of pants? In case he got a hole in one."
+    },
+    {
+        "id": 20,
+        "joke": "Why did the chicken go to the séance? To talk to the other side."
+    },
+    {
+        "id": 21,
+        "joke": "What do you call a fish wearing a bowtie? Sofishticated."
+    },
+    {
+        "id": 22,
+        "joke": "Why don't programmers like nature? It has too many bugs."
+    },
+    {
+        "id": 23,
+        "joke": "Why do cows wear bells? Because their horns don't work."
+    },
+    {
+        "id": 24,
+        "joke": "Why did the banana go to the doctor? Because it wasn't peeling well."
+    },
+    {
+        "id": 25,
+        "joke": "What do you call a dinosaur that is sleeping? A dino-snore."
+    },
+    {
+        "id": 26,
+        "joke": "Why did the computer go to the doctor? Because it had a virus!"
+    },
+    {
+        "id": 27,
+        "joke": "What do you call an alligator in a vest? An investigator."
+    },
+    {
+        "id": 28,
+        "joke": "Why don’t oysters donate to charity? Because they are shellfish."
+    },
+    {
+        "id": 29,
+        "joke": "What do you call a fake noodle? An impasta."
+    },
+    {
+        "id": 30,
+        "joke": "Why did the scarecrow keep getting promoted? Because he was outstanding in his field."
+    },
+    {
+        "id": 31,
+        "joke": "How does a penguin build its house? Igloos it together."
+    },
+    {
+        "id": 32,
+        "joke": "What do you call a belt made of watches? A waist of time."
+    },
+    {
+        "id": 33,
+        "joke": "Why did the cookie cry? Because his mom was a wafer too long."
+    },
+    {
+        "id": 34,
+        "joke": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels."
+    },
+    {
+        "id": 35,
+        "joke": "Why was the stadium so cool? Because every seat had a fan."
+    },
+    {
+        "id": 36,
+        "joke": "What do you call an elephant that doesn’t matter? An irrelephant."
+    },
+    {
+        "id": 37,
+        "joke": "What do you call a cow with no legs? Ground beef."
+    },
+    {
+        "id": 38,
+        "joke": "Why did the lion eat the tightrope walker? He wanted a well-balanced meal."
+    },
+    {
+        "id": 39,
+        "joke": "Why did the bicycle fall over? Because it was two tired."
+    },
+    {
+        "id": 40,
+        "joke": "How do you catch a squirrel? Climb a tree and act like a nut."
+    },
+    {
+        "id": 41,
+        "joke": "Why was the math book sad? Because it had too many problems."
+    },
+    {
+        "id": 42,
+        "joke": "Why don’t ants get sick? Because they have tiny ant-bodies."
+    },
+    {
+        "id": 43,
+        "joke": "What do you call a pile of cats? A meowtain."
+    },
+    {
+        "id": 44,
+        "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+    },
+    {
+        "id": 45,
+        "joke": "What do you get when you cross a snowman and a dog? Frostbite."
+    },
+    {
+        "id": 46,
+        "joke": "Why did the chicken cross the road? To get to the other side."
+    },
+    {
+        "id": 47,
+        "joke": "What do you call a sleeping bull? A bulldozer."
+    },
+    {
+        "id": 48,
+        "joke": "Why don’t elephants use computers? Because they’re afraid of the mouse."
+    },
+    {
+        "id": 49,
+        "joke": "Why did the cookie go to the doctor? Because he felt crummy."
+    },
+    {
+        "id": 50,
+        "joke": "What do you call a fish without eyes? Fsh."
+    },
+    {
+        "id": 51,
+        "joke": "Why did the golfer bring extra pants? In case he got a hole in one."
+    },
+    {
+        "id": 52,
+        "joke": "What do you call a magic dog? A labracadabrador."
+    },
+    {
+        "id": 53,
+        "joke": "Why did the computer keep sneezing? It had a bad case of viruses."
+    },
+    {
+        "id": 54,
+        "joke": "What’s orange and sounds like a parrot? A carrot."
+    },
+    {
+        "id": 55,
+        "joke": "Why did the coffee file a police report? It got mugged."
+    },
+    {
+        "id": 56,
+        "joke": "Why did the musician break his guitar? Because it was stringing him along."
+    },
+    {
+        "id": 57,
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+    },
+    {
+        "id": 58,
+        "joke": "Why did the chicken join a band? Because it had the drumsticks."
+    },
+    {
+        "id": 59,
+        "joke": "What do you call a snowman with a six-pack? An abdominal snowman."
+    },
+    {
+        "id": 60,
+        "joke": "Why did the fish blush? Because it saw the ocean's bottom."
+    },
+    {
+        "id": 61,
+        "joke": "Why don’t skeletons fight each other? They don’t have the guts."
+    },
+    {
+        "id": 62,
+        "joke": "Why was the broom late? It over swept."
+    },
+    {
+        "id": 63,
+        "joke": "Why did the calendar go to therapy? Because its days were numbered."
+    },
+    {
+        "id": 64,
+        "joke": "What do you call a can opener that doesn’t work? A can’t opener."
+    },
+    {
+        "id": 65,
+        "joke": "Why did the bicycle have to go to therapy? It was two-tired."
+    },
+    {
+        "id": 66,
+        "joke": "Why don’t programmers like nature? Too many bugs."
+    },
+    {
+        "id": 67,
+        "joke": "Why was the math lecture so long? The professor went off on a tangent."
+    },
+    {
+        "id": 68,
+        "joke": "What do you call a dog magician? A labracadabrador."
+    },
+    {
+        "id": 69,
+        "joke": "Why did the computer go to the doctor? It caught a virus."
+    },
+    {
+        "id": 70,
+        "joke": "Why do cows wear bells? Because their horns don’t work."
+    },
+    {
+        "id": 71,
+        "joke": "What do you call a belt made of watches? A waist of time."
+    },
+    {
+        "id": 72,
+        "joke": "Why did the chicken cross the playground? To get to the other slide."
+    },
+    {
+        "id": 73,
+        "joke": "What do you call a bear with no teeth? A gummy bear."
+    },
+    {
+        "id": 74,
+        "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+    },
+    {
+        "id": 75,
+        "joke": "What do you call fake spaghetti? An impasta."
+    },
+    {
+        "id": 76,
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+    },
+    {
+        "id": 77,
+        "joke": "Why did the cookie go to the doctor? Because he felt crummy."
+    },
+    {
+        "id": 78,
+        "joke": "How do you catch a squirrel? Climb a tree and act like a nut."
+    },
+    {
+        "id": 79,
+        "joke": "Why don’t ants get sick? Because they have tiny ant-bodies."
+    },
+    {
+        "id": 80,
+        "joke": "What do you call a pile of cats? A meowtain."
+    },
+    {
+        "id": 81,
+        "joke": "Why don’t oysters donate to charity? Because they are shellfish."
+    },
+    {
+        "id": 82,
+        "joke": "What do you call an alligator in a vest? An investigator."
+    },
+    {
+        "id": 83,
+        "joke": "Why did the banana go to the doctor? Because it wasn’t peeling well."
+    },
+    {
+        "id": 84,
+        "joke": "Why did the golfer bring two pairs of pants? In case he got a hole in one."
+    },
+    {
+        "id": 85,
+        "joke": "Why did the chicken go to the séance? To talk to the other side."
+    },
+    {
+        "id": 86,
+        "joke": "What do you call a fish wearing a bowtie? Sofishticated."
+    },
+    {
+        "id": 87,
+        "joke": "Why don’t programmers like nature? It has too many bugs."
+    },
+    {
+        "id": 88,
+        "joke": "Why do bees have sticky hair? Because they use a honeycomb."
+    },
+    {
+        "id": 89,
+        "joke": "What do you call a snowman with a six-pack? An abdominal snowman."
+    },
+    {
+        "id": 90,
+        "joke": "Why was the stadium so cool? Because every seat had a fan."
+    },
+    {
+        "id": 91,
+        "joke": "What do you call an elephant that doesn’t matter? An irrelephant."
+    },
+    {
+        "id": 92,
+        "joke": "What do you call a cow with no legs? Ground beef."
+    },
+    {
+        "id": 93,
+        "joke": "Why did the lion eat the tightrope walker? He wanted a well-balanced meal."
+    },
+    {
+        "id": 94,
+        "joke": "What do you call a sleeping bull? A bulldozer."
+    },
+    {
+        "id": 95,
+        "joke": "Why don’t elephants use computers? Because they’re afraid of the mouse."
+    },
+    {
+        "id": 96,
+        "joke": "What do you call a fish without eyes? Fsh."
+    },
+    {
+        "id": 97,
+        "joke": "Why did the musician break his guitar? Because it was stringing him along."
+    },
+    {
+        "id": 98,
+        "joke": "Why did the chicken join a band? Because it had the drumsticks."
+    },
+    {
+        "id": 99,
+        "joke": "Why did the fish blush? Because it saw the ocean's bottom."
+    },
+    {
+        "id": 100,
+        "joke": "Why was the broom late? It over swept."
+    },
+    {
+        "id": 101,
+        "joke": "Why did the calendar go to therapy? Because its days were numbered."
+    },
+    {
+        "id": 102,
+        "joke": "What do you call a can opener that doesn’t work? A can’t opener."
+    },
+    {
+        "id": 103,
+        "joke": "Why was the math book sad? Because it had too many problems."
     }
 ]
