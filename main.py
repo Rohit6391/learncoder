@@ -1,18 +1,18 @@
 from flask import Flask, jsonify, render_template, request
+from flask_cors import CORS
 import json
 import random
 import string
 
 app = Flask(__name__)
+# Enable CORS for your Netlify domain only (secure)
+CORS(app, origins=["https://neurajoke.netlify.app/"])
 
-# Your website domain allowed without API key
-ALLOWED_WEBSITE_DOMAIN = "neurajoke.netlify.app"
-
-# Load jokes
+# Load jokes from JSON file
 with open("jokes.json", "r", encoding="utf-8") as f:
     jokes = json.load(f)
 
-# In-memory storage for API keys (use a database for real app)
+# In-memory storage for API keys (optional, for future)
 api_keys = set()
 
 def generate_api_key():
@@ -20,6 +20,7 @@ def generate_api_key():
 
 @app.route("/")
 def home():
+    # Serve your website if you want Flask to serve frontend too (optional)
     return render_template("index.html")
 
 @app.route("/get_api_key", methods=["GET"])
@@ -30,7 +31,7 @@ def get_api_key():
 
 def is_allowed_without_key():
     referer = request.headers.get("Referer", "")
-    if ALLOWED_WEBSITE_DOMAIN in referer:
+    if "https://neurajoke.netlify.app/" in referer:
         return True
     return False
 
@@ -40,6 +41,7 @@ def valid_api_key():
 
 @app.route("/jokes/random", methods=["GET"])
 def random_joke():
+    # Allow if request is from your website or has valid API key
     if is_allowed_without_key() or valid_api_key():
         return jsonify(random.choice(jokes))
     return jsonify({"error": "Invalid or missing API key"}), 403
